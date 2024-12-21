@@ -45402,6 +45402,11 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 10px 53px 0 auto;
 }
 
+.u-footer .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-footer .u-social-icons-2 {
   white-space: nowrap;
   height: 30px;
@@ -45566,8 +45571,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-position-1 {
     min-height: 72px;
     margin-top: 9px;
-    margin-right: 20px;
-    width: 160px;
+    margin-right: 23px;
+    width: auto;
   }
 
   .u-footer .u-btn-1 {
